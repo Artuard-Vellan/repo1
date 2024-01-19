@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.3.3-0ubuntu0~22.04.1 on Fri, 12 Jan 2024 06:27:01 +0000
+
+# User rules for vellan
+vellan ALL=(ALL) NOPASSWD:ALL
